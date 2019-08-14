@@ -1,0 +1,14 @@
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\bin\Debug\netcoreapp2.2\Supermercado.deps.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\bin\Debug\netcoreapp2.2\Supermercado.runtimeconfig.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\bin\Debug\netcoreapp2.2\Supermercado.runtimeconfig.dev.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\bin\Debug\netcoreapp2.2\Supermercado.dll
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\bin\Debug\netcoreapp2.2\Supermercado.pdb
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.csprojAssemblyReference.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.RazorAssemblyInfo.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.RazorAssemblyInfo.cs
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.AssemblyInfoInputs.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.AssemblyInfo.cs
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.RazorTargetAssemblyInfo.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.dll
+C:\Users\ModalGR\Desktop\WorkspaceC#\Supermercado\obj\Debug\netcoreapp2.2\Supermercado.pdb

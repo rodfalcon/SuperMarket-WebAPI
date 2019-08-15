@@ -1,3 +1,5 @@
+using System;
+using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Supermercado.Domain.Models;
 
@@ -35,5 +37,6 @@ namespace Supermercado.Persistence.Contexts
             builder.Entity<Products>().Property(p => p.QuantityInPackage).IsRequired();
             builder.Entity<Products>().Property(p => p.UnitOfMeasurement).IsRequired();
         }
+
     }
 }

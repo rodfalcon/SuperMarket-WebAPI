@@ -36,6 +36,53 @@ namespace Supermercado.Persistence.Contexts
             builder.Entity<Products>().Property(p => p.Name).IsRequired().HasMaxLength(50);
             builder.Entity<Products>().Property(p => p.QuantityInPackage).IsRequired();
             builder.Entity<Products>().Property(p => p.UnitOfMeasurement).IsRequired();
+
+            builder.Entity<Products>().HasData(
+                new Products
+                {
+                    Id = 111,
+                    Name = "Gudang",
+                    QuantityInPackage = 15,
+                    UnitOfMeasurement = EUnitOfMeasurement.Unity,
+                    CategoryId = 111,
+                },
+
+                 new Products
+                {
+                    Id = 112,
+                    Name = "Pipe",
+                    QuantityInPackage = 1,
+                    UnitOfMeasurement = EUnitOfMeasurement.Unity,
+                    CategoryId = 112,
+                },
+
+                new Products
+                {
+                    Id = 113,
+                    Name = "Tobacco",
+                    QuantityInPackage = 20,
+                    UnitOfMeasurement = EUnitOfMeasurement.Gram,
+                    CategoryId = 113,
+                },
+
+                new Products
+                {
+                    Id = 114,
+                    Name = "Jedi Kush",
+                    QuantityInPackage = 2,
+                    UnitOfMeasurement = EUnitOfMeasurement.Kilogram,
+                    CategoryId = 114,
+                },
+
+                new Products
+                {
+                    Id = 115,
+                    Name = "Cachaça",
+                    QuantityInPackage = 2,
+                    UnitOfMeasurement = EUnitOfMeasurement.Liter,
+                    CategoryId = 115,
+                }
+            );
         }
 
     }
